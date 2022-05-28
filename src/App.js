@@ -7,10 +7,10 @@ import {
   PopoverContent,
   PopoverHeader,
   PopoverBody,
-  PopoverFooter,
+  
   PopoverArrow,
   PopoverCloseButton,
-  PopoverAnchor,
+  
 } from "@chakra-ui/react";
 const initialState = ["", "", "", "", "", "", "", "", "", ""];
 function App() {
